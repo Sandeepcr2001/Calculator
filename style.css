@@ -12,8 +12,24 @@
     background-color: #79d2ea;
     display: flex;
     align-items: center;
-    justify-content: center;
+    justify-content: end;
+    padding-right: 200px;
     
+}
+h1{
+    padding-right: 200px;
+    font-size: 120px;
+}
+
+#p{
+    /* padding-right: 0px; */
+    font-size: 50px;
+   
+
+}
+span{
+    color: rgb(142, 38, 19);
+
 }
 .calculator{
     background-color: #3a4452;
